@@ -6,3 +6,7 @@ After Wavelet transform section, find EEG rhythm from coefficient
 
 # Project2 : Wavelet Entropy Calculation of EEG signals
 Examined Relative Entropy and Wavelet Entropy of EEG signals/ Their subbands
+
+#Project3  : Calculation of Heart Rate Variability and Pulse Rate Variability of the ECG signals
+Calculation of Skin Conductance Level
+Correlation Between Features 
